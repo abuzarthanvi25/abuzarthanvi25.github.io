@@ -99,6 +99,13 @@ const CONFIG = {
       to: 'Present',
       companyLink: 'https://www.technyxsystems.com/en/',
     },
+    {
+      company: 'AX3 SYSTEMS',
+      position: 'Digital Marketing Executive',
+      from: 'July 2021',
+      to: 'September 2021',
+      companyLink: 'https://ax3-systems.com/',
+    },
   ],
   certifications: [],
   educations: [
